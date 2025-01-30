@@ -1,2 +1,2 @@
 # cft-templates
-Simple templates for create CloudFormation Stacks
+Simple templates to create stacks at CloudFormation
